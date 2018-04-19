@@ -1,1 +1,1 @@
-# Image-stitching-
+# Image_stitching

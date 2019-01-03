@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Results
 ### Input image
-![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle1.bmp){:height="700px" width="400px"}
+![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle1.bmp){:height="50%" width="50%"}
 ![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle2.bmp)
 ![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle3.bmp)
 ![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle4.bmp)

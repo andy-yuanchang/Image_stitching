@@ -8,8 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-*Visual studio 2013
-*OpenCV2.4.9
+*[Visual studio 2013]
+*[OpenCV2.4.9]
 
 ## Running the tests
 

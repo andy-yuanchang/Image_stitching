@@ -14,14 +14,17 @@ These instructions will get you a copy of the project up and running on your loc
 ## Results
 ### Input image
 <p float="center">
-  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle1.bmp" height="20%" width="20%">
-  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle2.bmp" height="20%" width="20%">
-  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle3.bmp" height="20%" width="20%">
+  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/puzzle1.bmp" width="20%">
+  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/puzzle2.bmp" height="20%" width="20%">
+  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/puzzle3.bmp" height="20%" width="20%">
+  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/puzzle4.bmp" height="20%" width="20%">
+  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/puzzle5.bmp" height="20%" width="20%">
 </p>
 <p float="center">
-  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle4.bmp" height="20%" width="20%">
-  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/sample.bmp" height="20%" width="20%">
-  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/target.bmp" height="20%" width="20%">
+  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/puzzle6.bmp" height="20%" width="20%">
+  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/puzzle7.bmp" height="20%" width="20%">
+  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/sample.bmp" height="20%" width="20%">
+  <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/target.bmp" height="20%" width="20%">
 </p>
 ### Output image
 <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/unblending_result.bmp" width="50%">

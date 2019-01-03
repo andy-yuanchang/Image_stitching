@@ -28,6 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
   <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/sample.bmp" height="30%" width="30%">
   <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/table/target.bmp" height="30%" width="30%">
 </p>
+
 ### Output image
 <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/unblending_result.bmp" width="50%">
 

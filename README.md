@@ -12,7 +12,13 @@ These instructions will get you a copy of the project up and running on your loc
 * OpenCV2.4.9
 
 ## Results
+### Input image
 ![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle1.bmp)
+![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle2.bmp)
+![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle3.bmp)
+![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/puzzle4.bmp)
+![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/sample.bmp)
+![image](https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/logo/target.bmp)
 
 ## Running the tests
 

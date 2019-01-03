@@ -32,11 +32,3 @@ These instructions will get you a copy of the project up and running on your loc
 ### Output image
 <img src="https://github.com/YuAnChang1993/Image_stitching/blob/master/CV_HW2/unblending_result.bmp" width="50%">
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
